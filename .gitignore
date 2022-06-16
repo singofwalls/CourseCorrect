@@ -5,3 +5,5 @@ deploy.php
 *.sh
 emergency_error_log.txt
 env_vars.php
+.venv*
+*.pdf
